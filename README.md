@@ -111,6 +111,11 @@ python-assignment-hunarmand/
 All program execution screenshots are included inside the `Screenshots` folder.
 
 ---
+# 🔗 GitHub Repository
+
+You can view the complete Python Assignment repository here:
+
+https://github.com/captainawais/python-assignment-hunarmand
 
 # 🎯 Learning Outcomes
 
